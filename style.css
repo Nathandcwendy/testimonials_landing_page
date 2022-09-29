@@ -42,6 +42,7 @@ h3 {
 
 h2 {
   font-weight: var(--fontWeightHeavy);
+  font-size: 1.1rem;
 }
 
 p {
